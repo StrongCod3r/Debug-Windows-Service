@@ -1,0 +1,7 @@
+C:\Users\jnaranjv\source\repos\MyServiceWindows\MyServiceWindows\obj\Debug\MyServiceWindows.csprojAssemblyReference.cache
+C:\Users\jnaranjv\source\repos\MyServiceWindows\MyServiceWindows\obj\Debug\MyServiceWindows.csproj.CoreCompileInputs.cache
+C:\Users\jnaranjv\source\repos\MyServiceWindows\MyServiceWindows\bin\Debug\MyServiceWindows.exe.config
+C:\Users\jnaranjv\source\repos\MyServiceWindows\MyServiceWindows\bin\Debug\MyServiceWindows.exe
+C:\Users\jnaranjv\source\repos\MyServiceWindows\MyServiceWindows\bin\Debug\MyServiceWindows.pdb
+C:\Users\jnaranjv\source\repos\MyServiceWindows\MyServiceWindows\obj\Debug\MyServiceWindows.exe
+C:\Users\jnaranjv\source\repos\MyServiceWindows\MyServiceWindows\obj\Debug\MyServiceWindows.pdb
